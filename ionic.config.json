@@ -1,0 +1,7 @@
+{
+  "name": "textCapture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
