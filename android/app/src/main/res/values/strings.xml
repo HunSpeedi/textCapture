@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">textCapture</string>
+    <string name="title_activity_main">textCapture</string>
+    <string name="package_name">com.text.capture</string>
+    <string name="custom_url_scheme">com.text.capture</string>
+</resources>

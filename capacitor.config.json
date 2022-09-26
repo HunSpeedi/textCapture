@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "textCapture",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.text.capture",
+  "appName": "textCapture",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
